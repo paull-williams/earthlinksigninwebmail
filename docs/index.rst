@@ -1,14 +1,14 @@
 How to Sign In to Your EarthLink Webmail Account Fast
 =====================================
 
+
+EarthLink is one of the most established names in the internet service provider (ISP) world, offering broadband services, web hosting, and email services. A significant part of EarthLink's offerings is its webmail service, which allows users to access their email accounts online, from any device with an internet connection. The "EarthLink Sign In Webmail" feature provides users with a straightforward way to log in and access their email inbox securely and efficiently.
+
 .. image:: click-sign-in.png
    :alt: My Project Logo
    :width: 400px
    :align: center
    :target: https://aclportal.com/
-
-
-EarthLink is one of the most established names in the internet service provider (ISP) world, offering broadband services, web hosting, and email services. A significant part of EarthLink's offerings is its webmail service, which allows users to access their email accounts online, from any device with an internet connection. The "EarthLink Sign In Webmail" feature provides users with a straightforward way to log in and access their email inbox securely and efficiently.
 
 In this guide, we will walk through the process of signing into EarthLink Webmail, troubleshooting common issues, and providing tips for enhancing your webmail experience. Whether you're a new user or someone who has used EarthLink for years, this article will help you make the most of your email account.
 
